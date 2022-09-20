@@ -1,3 +1,3 @@
 # MyProfile
-#TechnologyStack:HTML5
-#IDE-VS code
+# Technology Stack: HTML5
+# IDE-VS code
